@@ -1,3 +1,6 @@
+my 2021 version of the original repo: https://github.com/nlpai-lab/nlp-bible-code <br>
+added comments, explanations, exercises etc.
+
 # 자연어처리 바이블 실습자료 (nlp-bible-code)
 - 본 Repository는 자연어처리 바이블에서 제공하는 실습 문제들을 해결하기 위한 코드를 배포하는 곳입니다.
 - 21장, 28장의 실습은 외부에서 개발된 코드를 직접 사용하는 실습으로 별도로 코드를 제공하지 않습니다.
