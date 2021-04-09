@@ -1,4 +1,4 @@
-my 2021 version of the original repo: https://github.com/nlpai-lab/nlp-bible-code <br>
+original repo: https://github.com/nlpai-lab/nlp-bible-code <br>
 added comments, explanations, exercises etc.
 
 # 자연어처리 바이블 실습자료 (nlp-bible-code)
